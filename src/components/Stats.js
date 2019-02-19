@@ -9,7 +9,7 @@ const Stats = (props) => {
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>Total Pointss:</td>
+                    <td>Total Points:</td>
                     <td>0</td>
                 </tr>
             </tbody>
