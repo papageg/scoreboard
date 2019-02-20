@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "live-server": "^1.2.1",
     "node": "^11.10.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
@@ -23,5 +22,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.2.3"
+  }
 }

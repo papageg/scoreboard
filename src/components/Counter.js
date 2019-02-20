@@ -11,7 +11,5 @@ const Counter = (props) => {
         <button className="counter-action increment" onClick={() => props.changeScore(index, +1)}> + </button>
     </div>
     );
-    }
-  
-
+}
 export default Counter;
